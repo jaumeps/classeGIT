@@ -1,2 +1,5 @@
 Modificación 1:
-	>> Codigo del devoloper 1.
+	>> Código del devoloper 1.
+
+Modificación 2:
+	>> Código del devoloper 2.
